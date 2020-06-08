@@ -1,1 +1,0 @@
-/Users/hani/.bash_profile
